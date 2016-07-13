@@ -1,0 +1,9 @@
+C:\Users\burghge01\Desktop\Programs\Shapes\Shapes\bin\Debug\Shapes.exe.config
+C:\Users\burghge01\Desktop\Programs\Shapes\Shapes\bin\Debug\Shapes.exe
+C:\Users\burghge01\Desktop\Programs\Shapes\Shapes\bin\Debug\Shapes.pdb
+C:\Users\burghge01\Desktop\Programs\Shapes\Shapes\obj\Debug\Shapes.csprojResolveAssemblyReference.cache
+C:\Users\burghge01\Desktop\Programs\Shapes\Shapes\obj\Debug\Shapes.Form1.resources
+C:\Users\burghge01\Desktop\Programs\Shapes\Shapes\obj\Debug\Shapes.Properties.Resources.resources
+C:\Users\burghge01\Desktop\Programs\Shapes\Shapes\obj\Debug\Shapes.csproj.GenerateResource.Cache
+C:\Users\burghge01\Desktop\Programs\Shapes\Shapes\obj\Debug\Shapes.exe
+C:\Users\burghge01\Desktop\Programs\Shapes\Shapes\obj\Debug\Shapes.pdb
